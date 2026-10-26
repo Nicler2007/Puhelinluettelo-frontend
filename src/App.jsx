@@ -102,7 +102,7 @@ const App = () => {
 
   return (
     <div>
-      <h2>Phonebook</h2>
+      <h2>Nicon Phonebook</h2>
 
       <Notification message={notification} type={notificationType} />
 
